@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Anderson Ricardo (Dandynotcell)!
 
-### Onde o Hardware de Alta Precisão e a Inteligência Artificial Se Encontram
+### Sou Hardware de Alta Precisão, Hoje estudando Pithon 
 
 Com anos de experiência como **Especialista em Microreparação de Smartphones (Hardware Avançado)**, estou agora unindo o meu rigor técnico de diagnóstico físico ao desenvolvimento de sistemas lógicos.
 
