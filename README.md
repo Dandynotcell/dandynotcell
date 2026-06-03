@@ -8,7 +8,7 @@ Com anos de experiência como **Especialista em Microreparação de Smartphones 
 
 Estou me dedicando intensamente à engenharia de software e análise de dados, com foco em:
 
-- **Desenvolvimento Backend:** Dominando Python e o consumo/criação de **APIs (Asimov Academy)**.
+- **Desenvolvimento Backend:** Dominando Python
 - **IA e Data Science:** Aplicando Inteligência Artificial e Machine Learning para análises preditivas e soluções técnicas.
 
 ---
