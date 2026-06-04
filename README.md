@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Anderson Ricardo (Dandynotcell)!
 
-### Sou Hardware de Alta Precisão, Hoje estudando Pithon 
+### Sou Hardware de Alta Precisão, Hoje estudando Python 
 
 Com anos de experiência como **Especialista em Microreparação de Smartphones (Hardware Avançado)**, estou agora unindo o meu rigor técnico de diagnóstico físico ao desenvolvimento de sistemas lógicos.
 
