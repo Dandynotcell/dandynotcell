@@ -10,7 +10,8 @@ Estou me dedicando intensamente à engenharia de software e análise de dados, c
 
 - **Desenvolvimento Backend:** Dominando Python
 - **IA e Data Science:** Aplicando Inteligência Artificial e Machine Learning para análises preditivas e soluções técnicas.
-
+Meu Primeiro Projeto com Auxilio de IA para me mostrar onde errei onde acertava e como melhorar
+https://dandynotcell.github.io/python-do-basico-ao-pro/
 ---
 
 ### 💻 Meu Stack Tecnológico
