@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Anderson+Ricardo!;Especialista+em+Microeletrônica;Estudante+de+Python;Transformando+problemas+em+soluções!" />
+</p>
+
 # Olá 👋, eu sou Anderson Ricardo (Dandynotcell)!
 
 ### Sou Hardware de Alta Precisão, Hoje estudando Python 
