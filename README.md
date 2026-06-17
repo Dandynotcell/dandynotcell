@@ -15,7 +15,8 @@ Estou me dedicando intensamente à engenharia de software e análise de dados, c
 - **Desenvolvimento Backend:** Dominando Python
 - 
 - **IA e Data Science:** Aplicando Inteligência Artificial e Machine Learning para análises preditivas e soluções técnicas.
-Meu Primeiro Projeto com Auxilio de IA para me mostrar onde errei onde acertava e como melhorar, Fiz com Codex e Chat GPT
+Meu Primeiro Projeto com Auxilio de IA para eu estudar python e melhorar, Fiz com Codex e Chat GPT,só pra Mim depois que estiver codando
+ver minha evolução, para não ficar escravo de IA
 https://dandynotcell.github.io/python-do-basico-ao-pro/
 ---
 
